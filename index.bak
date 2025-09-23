@@ -44,11 +44,6 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
 }
-h3 {
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
-}
 </style>
 <title>Untidy Radio</title>
 
@@ -67,13 +62,21 @@ h3 {
   <div style="text-align: center">
     <br><br>
     <h1><b>Untidy Radio</b></h1>
-	</b>
-    <p><h2>Add the stream to your app: https://streaming.live365.com/a14325</h2></p>
+    </br>
+    
     <iframe width="450" height="316" frameborder="0" src="https://live365.com/embeds/v1/player/a14325?s=md&m=dark&c=mp3"></iframe>
 	</br>
     <iframe width="450" height="511" frameborder="0" src="https://live365.com/embeds/v1/played/a14325?s=md&m=dark"></iframe>
-	</br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&showPrint=0&mode=AGENDA&src=MDk0ZDBhODFmM2ExZWU3MThhZGVjMTRhYzBjZmMxNWU5ZTAxODhmNWZmNDgxNGUyYTUyNzk4MzBmNjZkNGM5ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238e24aa" style="border:solid 1px #777" width="450" height="600" frameborder="0" scrolling="no"></iframe>
+	
+   
+    <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+      <bsky-embed
+        username="untidyradio.bsky.social"
+        mode="dark"
+        limit="1"
+        >
+      </bsky-embed>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&showPrint=0&mode=AGENDA&src=MDk0ZDBhODFmM2ExZWU3MThhZGVjMTRhYzBjZmMxNWU5ZTAxODhmNWZmNDgxNGUyYTUyNzk4MzBmNjZkNGM5ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238e24aa" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
     <div style="margin-top:8px"><a href="https://bsky.app/profile/untidyradio.bsky.social" target="_blank">Bluesky</a>
       <br><br><br><br>
       <p style="color:whitesmoke">
